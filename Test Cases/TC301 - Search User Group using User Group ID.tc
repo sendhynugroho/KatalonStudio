@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC301 - Search User Group using User Group ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25753778-b3f4-4443-a1a6-2b474289f1c2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0073a4d4-0508-4dd0-9ba4-c4796d0385db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ADMIN'</defaultValue>
+      <description></description>
+      <id>0073a4d4-0508-4dd0-9ba4-c4796d0385db</id>
+      <masked>false</masked>
+      <name>usergroupid</name>
+   </variable>
+</TestCaseEntity>

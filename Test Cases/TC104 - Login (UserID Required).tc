@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC104 - Login (UserID Required)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>938acf14-fc95-4858-8bc7-896412e3ff8c</testCaseGuid>
+</TestCaseEntity>

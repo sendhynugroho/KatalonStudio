@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC302 - Search User Group using User Group Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d852ded-d1c0-4c63-a23d-bfa76b7e15a6</testCaseGuid>
+   <variable>
+      <defaultValue>'Administration'</defaultValue>
+      <description></description>
+      <id>2c5ce9a3-b734-42b1-aaa9-09387992db25</id>
+      <masked>false</masked>
+      <name>usergroupname</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log Security Administrator</name>
+   <tag></tag>
+   <elementGuidId>6a01b155-e029-4825-9ac0-87b0a728bbba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#LeftNavBar_I0i2_T > span.dx-vam</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='LeftNavBar_I0i2_T']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Log Security Administrator&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a58d3509-8173-446c-b948-881b3b083864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-vam</value>
+      <webElementGuid>2f96ba32-138c-4cad-a54a-28fc561bcbb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log Security Administrator</value>
+      <webElementGuid>0a6a11e1-1139-4d11-b562-c7a085145103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LeftNavBar_I0i2_T&quot;)/span[@class=&quot;dx-vam&quot;]</value>
+      <webElementGuid>daea07f6-c7a4-45f9-b435-bdc5d584087b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='LeftNavBar_I0i2_T']/span</value>
+      <webElementGuid>35150f25-1d5d-414f-b7e8-9e67433128ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::span[1]</value>
+      <webElementGuid>8e99fa86-b2ff-42b9-a689-abaa3603569b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Group'])[1]/following::span[2]</value>
+      <webElementGuid>c3a119fb-176f-42bd-b92d-5c9c0a71074a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MASTER'])[1]/preceding::span[1]</value>
+      <webElementGuid>acab5e75-eeb4-4ba4-9351-bbccad9146a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MASTER'])[2]/preceding::span[2]</value>
+      <webElementGuid>0b619a86-228c-4e57-a7e4-8280d9225490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log Security Administrator']/parent::*</value>
+      <webElementGuid>adbf43eb-35c2-43b4-bbf8-c90da329ff76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>a9f6ccc9-cd69-4ea7-af0b-1db9ecf9efb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log Security Administrator' or . = 'Log Security Administrator')]</value>
+      <webElementGuid>45da411a-aaca-4c9e-9a64-0129c0009acc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

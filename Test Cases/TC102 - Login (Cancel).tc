@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC102 - Login (Cancel)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa51592e-2818-46d4-b8fd-568bc9336cdf</testCaseGuid>
+</TestCaseEntity>

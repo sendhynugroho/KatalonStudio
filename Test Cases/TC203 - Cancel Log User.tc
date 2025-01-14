@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC203 - Cancel Log User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c12acb4d-77be-4788-bfe7-6048b4615c58</testCaseGuid>
+</TestCaseEntity>
