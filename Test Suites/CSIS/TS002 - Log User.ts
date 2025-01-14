@@ -15,14 +15,14 @@
       <guid>657e828a-0b78-4277-8247-399baa18a250</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC201 - Get All Log User</testCaseId>
+      <testCaseId>Test Cases/CSIS/TC201 - Get All Log User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>4d5f5709-a915-4512-8ed5-12cc455a7244</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC202 - Get Today Log User</testCaseId>
+      <testCaseId>Test Cases/CSIS/TC202 - Get Today Log User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -41,7 +41,7 @@
       <guid>a787e8d1-e431-4521-8830-9db95338ff5a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC203 - Cancel Log User</testCaseId>
+      <testCaseId>Test Cases/CSIS/TC203 - Cancel Log User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

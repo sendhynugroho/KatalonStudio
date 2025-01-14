@@ -15,7 +15,7 @@
       <guid>5b258a98-7038-4e26-a164-82f48afa64ce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC301 - Search User Group using User Group ID</testCaseId>
+      <testCaseId>Test Cases/CSIS/TC301 - Search User Group using User Group ID</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -28,7 +28,7 @@
       <guid>65009a5a-0c43-44f3-a608-8d7fcf3c3d7e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC302 - Search User Group using User Group Name</testCaseId>
+      <testCaseId>Test Cases/CSIS/TC302 - Search User Group using User Group Name</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -41,7 +41,7 @@
       <guid>9889bf22-9d08-4dbe-976f-15e655b5eca3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC303 - Search Deactive User Group</testCaseId>
+      <testCaseId>Test Cases/CSIS/TC303 - Search Deactive User Group</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

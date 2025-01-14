@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC401 - Search User using UserID</name>
+   <name>TC001 - Show Map in Airbnb</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>27293916-c738-4506-a7c2-3a92868b1659</testCaseGuid>
+   <testCaseGuid>cf46e95b-c107-43ba-94c3-a351fd825c76</testCaseGuid>
 </TestCaseEntity>

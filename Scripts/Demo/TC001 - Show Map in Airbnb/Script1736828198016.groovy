@@ -17,3 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.airbnb.co.id/')
+
+WebUI.click(findTestObject('Object Repository/Page_Airbnb  Sewa tempat liburan, kabin, ru_370a4f/button_Tampilkan peta'))
+
+WebUI.closeBrowser()
+
