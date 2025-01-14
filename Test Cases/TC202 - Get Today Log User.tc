@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC202 - Get Today Log User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f86c5293-502e-489e-9059-0eaae46dbfa4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d870890-2400-4d77-bd7c-448ea61c2be0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a4e516e-83e6-4c3f-9ce5-d3525b0dd958</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'snugroho'</defaultValue>
+      <description></description>
+      <id>0d870890-2400-4d77-bd7c-448ea61c2be0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'AU5A38x+5KSlNf1GPCJ8wQ=='</defaultValue>
+      <description></description>
+      <id>5a4e516e-83e6-4c3f-9ce5-d3525b0dd958</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

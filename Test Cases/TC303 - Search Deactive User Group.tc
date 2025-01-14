@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC303 - Search Deactive User Group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d49c01d0-e773-4b85-860d-3b116bcadadc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC201 - Get All Log User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>530bae91-edf4-403a-b8c8-ff80f9195ec2</testCaseGuid>
+</TestCaseEntity>
